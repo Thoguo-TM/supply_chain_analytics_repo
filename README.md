@@ -1,4 +1,4 @@
-﻿# 📦 Supply Chain Analytics Bootcamp
+﻿# 📦 Supply Chain Analytics Self-Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -8,26 +8,26 @@
 
 ---
 
-## 📖 About  
-This repository is my **70-week, self-directed Supply Chain Analytics Bootcamp**, built from scratch to simulate real-world data challenges faced by logistics, manufacturing, and retail companies.
+## 📖 About
+This repository is my **self-directed Supply Chain Analytics learning journey**, designed to simulate real-world challenges in logistics, manufacturing, and retail.
 
-I’m learning by **building real projects — not toy examples** — with datasets that simulate:  
-- 📊 Inventory management systems  
-- 📈 Sales pipelines  
-- 🚚 Supplier performance metrics  
-- 🔮 Demand forecasting models  
-
----
-
-## 🎯 Goals  
-- 🏆 **Master Excel, SQL, Python, and Power BI** for supply chain decision-making  
-- 🧹 Learn **data wrangling, cleaning, and visualization**  
-- 📊 Build **portfolio-ready analytics dashboards** and predictive models  
-- 📝 Document every single day of progress  
+I’m learning by **building real projects — not toy examples** — with datasets that simulate:
+- 📊 Inventory management systems
+- 📈 Sales pipelines
+- 🚚 Supplier performance metrics
+- 🔮 Demand forecasting models
 
 ---
 
-## 📂 Repository Structure  
+## 🎯 Goals
+- 🏆 **Master Excel, SQL, Python, and Power BI** for supply chain decision-making
+- 🧹 Learn **data wrangling, cleaning, and visualization**
+- 📊 Build **portfolio-ready analytics dashboards** and predictive models
+- 📝 Document every single day of progress
+
+---
+
+## 📂 Repository Structure
 \\\
 supply_chain_analytics_repo/
 │
@@ -55,39 +55,38 @@ supply_chain_analytics_repo/
 
 ---
 
-## 🚀 Getting Started  
+## 🚀 Getting Started
 
-### 1️⃣ Clone the repo  
+### 1️⃣ Clone the repo
 \\\ash
 git clone https://github.com/Thoguo-TM/supply_chain_analytics_repo.git
 cd supply_chain_analytics_repo
 \\\
 
-### 2️⃣ Install dependencies  
+### 2️⃣ Install dependencies
 \\\ash
 pip install -r requirements.txt
 \\\
 
-### 3️⃣ Start learning  
-- Open \phase1_excel/README.md\ for your daily tasks  
-- Use datasets in \data/raw/\  
+### 3️⃣ Start learning
+- Open \phase1_excel/README.md\ for your daily tasks
+- Use datasets in \data/raw/\
 
 ---
 
-## 📅 Learning Plan  
+## 📅 Learning Plan
 | Phase | Weeks      | Focus Area |
 |-------|------------|------------|
-| **1** | 1–8        | Excel mastery — from basics to pivot tables & advanced formulas |
-| **2** | 9–16       | SQL — designing databases, queries, joins, aggregation |
-| **3** | 17–30      | Python for analytics — Pandas, NumPy, Matplotlib, Seaborn |
-| **4** | 31–38      | Power BI dashboards for SCM KPIs |
-| **5** | 39–48      | Advanced analytics — demand forecasting, optimization |
-| **6** | 49–52      | Special topics — sustainability, resilience |
-| **7** | 53–70      | Capstone project with real business simulation |
+| **1** | 1-8        | Excel mastery – basics to pivot tables & advanced formulas |
+| **2** | 9-16       | SQL – designing databases, queries, joins, aggregation |
+| **3** | 17-30      | Python – Pandas, NumPy, Matplotlib, Seaborn |
+| **4** | 31-38      | Power BI dashboards for SCM KPIs |
+| **5** | 39-48      | Advanced analytics – demand forecasting, optimization |
+| **6** | 49-52      | Special topics – sustainability, resilience |
+| **7** | 53-70      | Capstone project with real business simulation |
 
 ---
 
-## 📬 Contact  
+## 📬 Contact
 💻 Created by **Thoguo-TM** — feel free to connect!  
-📧 Email: *(optional)*  
-🌐 GitHub: [Thoguo-TM](https://github.com/Thoguo-TM)  
+🌐 GitHub: [Thoguo-TM](https://github.com/Thoguo-TM)
