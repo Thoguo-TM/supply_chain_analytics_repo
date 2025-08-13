@@ -9,7 +9,7 @@
 ---
 
 ## 📖 About
-This repository is my **self-directed Supply Chain Analytics learning journey**, designed to simulate real-world challenges in logistics, manufacturing, and retail.
+This repository is my **self-directed Supply Chain Analytics learning journey**, built to simulate real-world challenges in logistics, manufacturing, and retail.
 
 I’m learning by **building real projects — not toy examples** — with datasets that simulate:
 - 📊 Inventory management systems
@@ -30,7 +30,6 @@ I’m learning by **building real projects — not toy examples** — with datas
 ## 📂 Repository Structure
 \\\
 supply_chain_analytics_repo/
-│
 ├── phase1_excel/
 ├── phase2_sql/
 ├── phase3_python/
@@ -75,18 +74,18 @@ pip install -r requirements.txt
 ---
 
 ## 📅 Learning Plan
-| Phase | Weeks      | Focus Area |
-|-------|------------|------------|
-| **1** | 1-8        | Excel mastery – basics to pivot tables & advanced formulas |
-| **2** | 9-16       | SQL – designing databases, queries, joins, aggregation |
-| **3** | 17-30      | Python – Pandas, NumPy, Matplotlib, Seaborn |
-| **4** | 31-38      | Power BI dashboards for SCM KPIs |
-| **5** | 39-48      | Advanced analytics – demand forecasting, optimization |
-| **6** | 49-52      | Special topics – sustainability, resilience |
-| **7** | 53-70      | Capstone project with real business simulation |
+| Phase | Weeks | Focus Area |
+|-------|-------|------------|
+| **1** | 1-8   | Excel mastery – basics to pivot tables & advanced formulas |
+| **2** | 9-16  | SQL – designing databases, queries, joins, aggregation |
+| **3** | 17-30 | Python – Pandas, NumPy, Matplotlib, Seaborn |
+| **4** | 31-38 | Power BI dashboards for SCM KPIs |
+| **5** | 39-48 | Advanced analytics – demand forecasting, optimization |
+| **6** | 49-52 | Special topics – sustainability, resilience |
+| **7** | 53-70 | Capstone project with real business simulation |
 
 ---
 
 ## 📬 Contact
-💻 Created by **Thoguo-TM** — feel free to connect!  
+💻 Created by **Thoguo-TM**  
 🌐 GitHub: [Thoguo-TM](https://github.com/Thoguo-TM)
