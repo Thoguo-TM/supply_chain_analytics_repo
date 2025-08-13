@@ -27,52 +27,6 @@ I’m learning by **building real projects — not toy examples** — with datas
 
 ---
 
-## 📂 Repository Structure
-\\\
-supply_chain_analytics_repo/
-├── phase1_excel/
-├── phase2_sql/
-├── phase3_python/
-├── phase4_powerbi/
-├── phase5_advanced_analytics/
-├── phase6_special_topics/
-├── phase7_capstone/
-│
-├── data/
-│   ├── raw/
-│   └── cleaned/
-│
-├── notebooks/
-├── scripts/
-├── docs/
-├── assets/screenshots/
-│
-├── requirements.txt
-├── .gitignore
-└── README.md
-\\\
-
----
-
-## 🚀 Getting Started
-
-### 1️⃣ Clone the repo
-\\\ash
-git clone https://github.com/Thoguo-TM/supply_chain_analytics_repo.git
-cd supply_chain_analytics_repo
-\\\
-
-### 2️⃣ Install dependencies
-\\\ash
-pip install -r requirements.txt
-\\\
-
-### 3️⃣ Start learning
-- Open \phase1_excel/README.md\ for your daily tasks
-- Use datasets in \data/raw/\
-
----
-
 ## 📅 Learning Plan
 | Phase | Weeks | Focus Area |
 |-------|-------|------------|
