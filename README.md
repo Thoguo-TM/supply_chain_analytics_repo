@@ -11,7 +11,7 @@
 ## ?? About  
 This repository is my **70-week, self-directed Supply Chain Analytics Bootcamp**, built from scratch to simulate real-world data challenges faced by logistics, manufacturing, and retail companies.
 
-I’m learning by **building real projects — not toy examples** — with datasets that simulate:  
+Iâ€™m learning by **building real projects â€” not toy examples** â€” with datasets that simulate:  
 - ?? Inventory management systems  
 - ?? Sales pipelines  
 - ?? Supplier performance metrics  
@@ -30,7 +30,7 @@ I’m learning by **building real projects — not toy examples** — with datasets th
 ## ?? Repository Structure  
 \\\
 supply_chain_analytics_repo/
-¦
+Â¦
 +-- phase1_excel/                # Excel basics to advanced functions
 +-- phase2_sql/                  # SQL queries and database design
 +-- phase3_python/               # Data wrangling and analysis
@@ -38,16 +38,16 @@ supply_chain_analytics_repo/
 +-- phase5_advanced_analytics/   # Forecasting and optimization
 +-- phase6_special_topics/       # Risk analysis, sustainability
 +-- phase7_capstone/             # End-to-end project
-¦
+Â¦
 +-- data/
-¦   +-- raw/                     # Original datasets
-¦   +-- cleaned/                 # Processed datasets
-¦
+Â¦   +-- raw/                     # Original datasets
+Â¦   +-- cleaned/                 # Processed datasets
+Â¦
 +-- notebooks/                   # Jupyter notebooks for analysis
 +-- scripts/                     # Python automation scripts
 +-- docs/                        # Documentation and runbook
 +-- assets/screenshots/          # Images for README/docs
-¦
+Â¦
 +-- requirements.txt
 +-- .gitignore
 +-- README.md
@@ -77,18 +77,18 @@ pip install -r requirements.txt
 ## ?? Learning Plan  
 | Phase | Weeks      | Focus Area |
 |-------|------------|------------|
-| **1** | 1–8        | Excel mastery — from basics to pivot tables & advanced formulas |
-| **2** | 9–16       | SQL — designing databases, queries, joins, aggregation |
-| **3** | 17–30      | Python for analytics — Pandas, NumPy, Matplotlib, Seaborn |
-| **4** | 31–38      | Power BI dashboards for SCM KPIs |
-| **5** | 39–48      | Advanced analytics — demand forecasting, optimization |
-| **6** | 49–52      | Special topics — sustainability, resilience |
-| **7** | 53–70      | Capstone project with real business simulation |
+| **1** | 1â€“8        | Excel mastery â€” from basics to pivot tables & advanced formulas |
+| **2** | 9â€“16       | SQL â€” designing databases, queries, joins, aggregation |
+| **3** | 17â€“30      | Python for analytics â€” Pandas, NumPy, Matplotlib, Seaborn |
+| **4** | 31â€“38      | Power BI dashboards for SCM KPIs |
+| **5** | 39â€“48      | Advanced analytics â€” demand forecasting, optimization |
+| **6** | 49â€“52      | Special topics â€” sustainability, resilience |
+| **7** | 53â€“70      | Capstone project with real business simulation |
 
 ---
 
 ## ?? Contact  
-?? Created by **Thoguo-TM** — feel free to connect!  
+?? Created by **Thoguo-TM** â€” feel free to connect!  
 ?? Email: *(optional)*  
 ?? GitHub: [Thoguo-TM](https://github.com/Thoguo-TM)  
 
