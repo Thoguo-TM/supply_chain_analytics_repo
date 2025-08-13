@@ -1,4 +1,4 @@
-# Supply Chain Analytics Bootcamp Repo
+# Supply Chain Analytics Repo
 
 ## Structure
 This repo is organized into phases, each with its own folder for exercises and projects:

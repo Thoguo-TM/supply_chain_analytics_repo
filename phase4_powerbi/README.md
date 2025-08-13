@@ -1,2 +1,1 @@
-## Phase 4: Power BI Dashboards (Weeks 28–36)
-Tasks: Build interactive visual dashboards for SCM KPIs.
+# Phase Folder\n\nThis folder contains exercises and projects for this phase.
