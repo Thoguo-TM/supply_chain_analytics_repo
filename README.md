@@ -1,44 +1,85 @@
-# 📦 Supply Chain Analytics Bootcamp (Phase 1 & 2 Grind Plan)
+# 📦 Supply Chain Analytics Bootcamp
 
-Welcome to the **Supply Chain Analytics Bootcamp**.  
-This is a structured, project-based, 70-week journey designed to take you from zero to advanced analytics, with real-world datasets and portfolio-ready projects.
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Excel](https://img.shields.io/badge/Excel-Advanced-green)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+## 📖 About  
+This repository is my **70-week, self-directed Supply Chain Analytics Bootcamp**, built from scratch to simulate **real-world data challenges** faced by logistics, manufacturing, and retail companies.
+
+I’m learning by building **real projects** — not toy examples — with datasets that simulate:
+- Inventory systems  
+- Sales pipelines  
+- Supplier performance metrics  
+- Demand forecasting  
+---
+
+## 🎯 Goals
+- Master Excel, SQL, Python, and Power BI for supply chain decision-making  
+- Learn data wrangling, cleaning, and visualization  
+- Build portfolio-ready analytics dashboards and predictive models  
+- Document every single day of progress  
 
 ---
 
-## 📅 Phase 1: Excel Essentials (Weeks 1–10)
-**Goal:** Build strong Excel fundamentals for supply chain data handling.  
-You will learn formulas, functions, data cleaning, dashboards, and conditional formatting using realistic datasets.
+## 📂 Repository Structure
+\`\`\`
+supply_chain_analytics_repo/
+│
+├── phase1_excel/                 # Excel basics to advanced functions
+├── phase2_sql/                   # SQL queries and database design
+├── phase3_python/                # Data wrangling and analysis
+├── phase4_powerbi/               # Interactive dashboards
+├── phase5_advanced_analytics/    # Forecasting and optimization
+├── phase6_special_topics/        # Risk analysis, sustainability
+├── phase7_capstone/              # End-to-end project
+│
+├── data/
+│   ├── raw/                      # Original datasets
+│   └── cleaned/                  # Processed datasets
+│
+├── notebooks/                    # Jupyter notebooks for analysis
+├── scripts/                      # Python automation scripts
+├── docs/                         # Documentation and runbook
+├── assets/screenshots/           # Images for README/docs
+│
+├── requirements.txt
+├── .gitignore
+└── README.md
+\`\`\`
+---
 
-### Daily Grind Outline
-**Week 1 Example:**
-- **Day 1:** Intro to Excel interface + dataset “Retail_Orders_W1.csv”
-- **Day 2:** Data types, cell referencing, and SUM/AVERAGE
-- **Day 3:** Sorting, filtering, and basic formatting
-- **Day 4:** SUMIF, COUNTIF, and practical exercises
-- **Day 5:** Real-world project — weekly sales summary
-- **Day 6:** Conditional formatting + low-stock alerts
-- **Day 7:** Review & mini-challenge
+## 🚀 Getting Started
 
-(…Full Phase 1 daily grind in `docs/PHASE1_README.md`)
+### Clone the repo  
+\`\`\`bash
+git clone https://github.com/Thoguo-TM/supply_chain_analytics_repo.git
+cd supply_chain_analytics_repo
+\`\`\`
+
+### Install dependencies  
+\`\`\`bash
+pip install -r requirements.txt
+\`\`\`
+
+### Start learning  
+1. Open \`phase1_excel/README.md\` for your daily tasks  
+2. Use datasets in \`data/raw/\`  
+3. Commit your progress regularly  
+---
+
+## 📅 Learning Plan  
+**Phase 1 (Weeks 1–8)**: Excel mastery — from basics to pivot tables and advanced formulas  
+**Phase 2 (Weeks 9–16)**: SQL — designing databases, queries, joins, aggregation  
+**Phase 3 (Weeks 17–30)**: Python for analytics — Pandas, NumPy, Matplotlib, Seaborn  
+**Phase 4 (Weeks 31–38)**: Power BI dashboards for SCM KPIs  
+**Phase 5 (Weeks 39–48)**: Advanced analytics — demand forecasting, optimization  
+**Phase 6 (Weeks 49–52)**: Special topics — sustainability, resilience  
+**Phase 7 (Weeks 53–70)**: Capstone project with real business simulation  
 
 ---
 
-## 📅 Phase 2: SQL for Supply Chain (Weeks 11–20)
-**Goal:** Learn to query, clean, and analyze supply chain datasets using SQL.
-
-### Daily Grind Outline
-**Week 11 Example:**
-- **Day 1:** Install SQLite + load `inventory_w11.db`
-- **Day 2:** SELECT basics — query all product data
-- **Day 3:** WHERE clauses — filter by product category
-- **Day 4:** ORDER BY — sort by quantity and value
-- **Day 5:** Real-world project — low-stock report
-- **Day 6:** Aggregate functions — SUM, COUNT, AVG
-- **Day 7:** Review & SQL mini-project
-
-(…Full Phase 2 daily grind in `docs/PHASE2_README.md`)
-
----
-
-## 📂 Repo Structure
-
+## 📬 Contact  
+Created by **Thoguo-TM** — feel free to connect!
