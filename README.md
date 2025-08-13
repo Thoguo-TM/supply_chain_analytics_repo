@@ -17,6 +17,31 @@ I’m learning by **building real projects — not toy examples** — with datas
 - 🚚 Supplier performance metrics
 - 🔮 Demand forecasting models
 
+### 📂 Repo Tree
+\\\
+supply_chain_analytics_repo/
+├── phase1_excel/
+├── phase2_sql/
+├── phase3_python/
+├── phase4_powerbi/
+├── phase5_advanced_analytics/
+├── phase6_special_topics/
+├── phase7_capstone/
+│
+├── data/
+│   ├── raw/
+│   └── cleaned/
+│
+├── notebooks/
+├── scripts/
+├── docs/
+├── assets/screenshots/
+│
+├── requirements.txt
+├── .gitignore
+└── README.md
+\\\
+
 ---
 
 ## 🎯 Goals
@@ -28,15 +53,21 @@ I’m learning by **building real projects — not toy examples** — with datas
 ---
 
 ## 📅 Learning Plan
+
+### Phases 1–4
 | Phase | Weeks | Focus Area |
 |-------|-------|------------|
-| **1** | 1-8   | Excel mastery – basics to pivot tables & advanced formulas |
-| **2** | 9-16  | SQL – designing databases, queries, joins, aggregation |
-| **3** | 17-30 | Python – Pandas, NumPy, Matplotlib, Seaborn |
-| **4** | 31-38 | Power BI dashboards for SCM KPIs |
-| **5** | 39-48 | Advanced analytics – demand forecasting, optimization |
-| **6** | 49-52 | Special topics – sustainability, resilience |
-| **7** | 53-70 | Capstone project with real business simulation |
+| **1️⃣ Excel** | 1-8   | 📊 Excel mastery – basics to pivot tables & advanced formulas |
+| **2️⃣ SQL**   | 9-16  | 🗄️ SQL – designing databases, queries, joins, aggregation |
+| **3️⃣ Python**| 17-30 | 🐍 Python – Pandas, NumPy, Matplotlib, Seaborn |
+| **4️⃣ Power BI** | 31-38 | 📈 Power BI dashboards for SCM KPIs |
+
+### Phases 5–7
+| Phase | Weeks | Focus Area |
+|-------|-------|------------|
+| **5️⃣ Advanced Analytics** | 39-48 | 🔮 Demand forecasting & optimization |
+| **6️⃣ Special Topics** | 49-52 | 🌱 Sustainability, resilience & risk analysis |
+| **7️⃣ Capstone** | 53-70 | 🚀 End-to-end business simulation project |
 
 ---
 
