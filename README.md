@@ -1,83 +1,44 @@
-# 📦 Supply Chain Analytics Bootcamp
+# 📦 Supply Chain Analytics Bootcamp (Phase 1 & 2 Grind Plan)
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Advanced-green?logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Viz-yellow?logo=power-bi&logoColor=white)
-![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
-
-## 📖 About
-This repository is my **70-week, self-directed Supply Chain Analytics Bootcamp**, built from scratch to simulate **real-world data challenges** faced by logistics, manufacturing, and retail companies.
-
-I’m learning by **building real projects** — not toy examples — with datasets that simulate inventory systems, sales pipelines, supplier performance metrics, and demand forecasting.
+Welcome to the **Supply Chain Analytics Bootcamp**.  
+This is a structured, project-based, 70-week journey designed to take you from zero to advanced analytics, with real-world datasets and portfolio-ready projects.
 
 ---
 
-## 📅 Full Learning Plan
+## 📅 Phase 1: Excel Essentials (Weeks 1–10)
+**Goal:** Build strong Excel fundamentals for supply chain data handling.  
+You will learn formulas, functions, data cleaning, dashboards, and conditional formatting using realistic datasets.
 
-### **Phase 1 – Excel Essentials & Advanced (Weeks 1–8)**
-**Goal:** Master Excel for supply chain analytics, from absolute basics to advanced reporting.
+### Daily Grind Outline
+**Week 1 Example:**
+- **Day 1:** Intro to Excel interface + dataset “Retail_Orders_W1.csv”
+- **Day 2:** Data types, cell referencing, and SUM/AVERAGE
+- **Day 3:** Sorting, filtering, and basic formatting
+- **Day 4:** SUMIF, COUNTIF, and practical exercises
+- **Day 5:** Real-world project — weekly sales summary
+- **Day 6:** Conditional formatting + low-stock alerts
+- **Day 7:** Review & mini-challenge
 
-#### Week 1
-- **Day 1:** Install Excel / LibreOffice / Google Sheets. Learn cell types, navigation.  
-- **Day 2:** Enter sample inventory data in `data/raw/week1_inventory.xlsx`.  
-- **Day 3:** Basic formulas: `SUM`, `AVERAGE`, `MIN`, `MAX`.  
-- **Day 4:** Relative vs Absolute cell references.  
-- **Day 5:** Formatting for data readability (number formats, colors).  
-- **Day 6:** Create basic inventory table.  
-- **Day 7:** Recap & create a small supplier list spreadsheet.
-
-#### Week 2
-- **Day 8:** Conditional formatting for low stock (<10 units).  
-- **Day 9:** Sorting and filtering.  
-- **Day 10:** Data validation with dropdowns for product categories.  
-- **Day 11:** Named ranges and why they matter.  
-- **Day 12:** Basic charts (bar, column) for inventory.  
-- **Day 13:** Mini project: monthly sales tracker.  
-- **Day 14:** Review & clean up files.
-#### Week 3–4
-- Pivot tables for product sales analysis  
-- `VLOOKUP` / `XLOOKUP` for matching supplier names  
-- Multiple criteria lookups with `INDEX` + `MATCH`  
-- Combine functions: `IF`, `AND`, `OR`  
-- Project: Build an automated stock update sheet linked to sales data
-
-#### Week 5–8
-- Advanced formulas: `SUMIFS`, `COUNTIFS`, `TEXT`, `DATE`  
-- Dashboard creation with slicers & charts  
-- Macro basics for repetitive tasks  
-- Final Excel mini-project: Inventory dashboard with KPIs
+(…Full Phase 1 daily grind in `docs/PHASE1_README.md`)
 
 ---
 
-### **Phase 2 – SQL for Supply Chain (Weeks 9–16)**
-**Goal:** Store, query, and manipulate supply chain data in relational databases.
+## 📅 Phase 2: SQL for Supply Chain (Weeks 11–20)
+**Goal:** Learn to query, clean, and analyze supply chain datasets using SQL.
 
-#### Week 9
-- **Day 1:** Install MySQL / PostgreSQL.  
-- **Day 2:** Create a database `scm_db`.  
-- **Day 3:** Create `products`, `suppliers`, `orders` tables.  
-- **Day 4:** Insert sample data from `data/raw/week9_sample.sql`.  
-- **Day 5:** Simple `SELECT` queries.  
-- **Day 6:** `WHERE` filtering conditions.  
-- **Day 7:** Review & small practice queries.
+### Daily Grind Outline
+**Week 11 Example:**
+- **Day 1:** Install SQLite + load `inventory_w11.db`
+- **Day 2:** SELECT basics — query all product data
+- **Day 3:** WHERE clauses — filter by product category
+- **Day 4:** ORDER BY — sort by quantity and value
+- **Day 5:** Real-world project — low-stock report
+- **Day 6:** Aggregate functions — SUM, COUNT, AVG
+- **Day 7:** Review & SQL mini-project
 
-#### Week 10
-- `ORDER BY`, `LIMIT`  
-- `DISTINCT` for unique supplier names  
-- `BETWEEN`, `IN`, `LIKE`  
-- Combine filters with `AND`, `OR`  
-- Weekly practice: Find top-selling products
+(…Full Phase 2 daily grind in `docs/PHASE2_README.md`)
 
-#### Week 11–12
-- `JOIN` (INNER, LEFT, RIGHT) to link orders and products  
-- Aggregate functions: `SUM()`, `COUNT()`, `AVG()`  
-- `GROUP BY` and `HAVING` for KPIs  
-- Project: Supplier performance report
+---
 
-#### Week 13–16
-- Subqueries  
-- Data cleaning in SQL (update nulls, remove duplicates)  
-- Creating views for dashboards  
-- Exporting SQL query results to CSV for analysis  
-- Final Phase 2 project: SQL-powered inventory restock alert system
+## 📂 Repo Structure
+
