@@ -1,0 +1,11 @@
+supplier_id,supplier_name,contact_email,avg_lead_time_days,late_pct,min_order_qty
+SUP001,Alpha Supplies Ltd,contact1@alphasuppliesltd.com,21,0.17,50
+SUP002,Beta-Distribution,contact2@beta-distribution.com,21,0.25,50
+SUP003,Gamma Traders,contact3@gammatraders.com,28,0.08,500
+SUP004,Delta Imports,contact4@deltaimports.com,7,0.23,200
+SUP005,Epsilon Co,contact5@epsilonco.com,21,0.22,500
+SUP006,Zeta Exports,contact6@zetaexports.com,10,0.18,50
+SUP007,Eta Supplies,contact7@etasupplies.com,14,0.28,200
+SUP008,Theta Supply,contact8@thetasupply.com,10,0.1,50
+SUP009,IOTA LOGISTICS ,contact9@iotalogistics.com,28,0.13,50
+SUP010,Kappa Traders,contact10@kappatraders.com,21,0.16,200
