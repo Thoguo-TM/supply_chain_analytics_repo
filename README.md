@@ -17,6 +17,7 @@ I’m learning by **building real projects — not toy examples** — with datas
 - 🚚 Supplier performance metrics
 - 🔮 Demand forecasting models
 
+<!-- This text will not be visible in the rendered README. 
 ### 📂 Repo Tree
 \\\
 supply_chain_analytics_repo/
@@ -41,6 +42,7 @@ supply_chain_analytics_repo/
 ├── .gitignore
 └── README.md
 \\\
+-->
 
 ---
 
