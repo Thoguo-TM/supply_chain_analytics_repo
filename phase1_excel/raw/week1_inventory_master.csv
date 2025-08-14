@@ -1,0 +1,4 @@
+Product,SKU,Category,Stock On Hand,Reorder Level
+Widget A,WA-001,Gadgets,120,30
+Widget B,WB-002,Gadgets,80,20
+Widget C,WC-003,Widgets,45,10
